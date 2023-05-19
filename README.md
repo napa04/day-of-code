@@ -18,7 +18,7 @@ A Codespace is a convenient development environment hosted in the cloud that you
 While you wait for your codespace to be ready your coach will explain the processes that are going on and how your environment is being set up.
 This setup will take a bit over five minutes, so grab a cup of tea!
 
-### Step 4: You’re ready to go
+### Step 4: You’re ready to go!
 Congratulations, you’re up and running! You will see your own copy of Visual Studio Code (VS Code) which is an IDE (Integrated Development Environment) where you can write and run code.
 
 Ask your coach to explain what the different components of VS Code are: the editor, project navigation, the Terminal.
